@@ -1,0 +1,6 @@
+ {
+    id: product.id,
+    name: product.name,
+    department: product.department,
+    price: product.price
+  }

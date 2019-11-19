@@ -1,0 +1,9 @@
+@products.map do |product|
+
+  {
+    name: product.name,
+    department: product.department,
+    price: product.price,
+    description: product.description
+  }
+end
